@@ -25,6 +25,5 @@ function runTests(testType) {
     }
 }
 
-// Calling functions
 launchBrowser("chrome");
 runTests("smoke");
